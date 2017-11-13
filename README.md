@@ -26,5 +26,20 @@
     <tr><td><strong>119</strong></td><td width="200">NNTP (Usenet)</td></tr>
     <tr><td><strong>123</strong></td><td width="200">NTP</td></tr>
     <tr><td><strong>135</strong></td><td width="200">Microsoft RPC</td></tr>
+    <tr><td><strong>143</strong></td><td width="200">IMAP4</td></tr>
+    <tr><td><strong>161-162</strong></td><td width="200">SNMP</td></tr>
+    <tr><td><strong>177</strong></td><td width="200">XDMCP</td></tr>
+    <tr><td><strong>179</strong></td><td width="200">BGP</td></tr>
+    <tr><td><strong>201</strong></td><td width="200">AppleTalk</td></tr>
+    <tr><td><strong>264</strong></td><td width="200">BGMP</td></tr>
+    <tr><td><strong>318</strong></td><td width="200">TSP</td></tr>
+    <tr><td><strong>143</strong></td><td width="200">IMAP4</td></tr>
+    <tr><td><strong>381-383</strong></td><td width="200">HP Openview</td></tr>
+    <tr><td><strong>389</strong></td><td width="200">LDAP</td></tr>
+    <tr><td><strong>411-412</strong></td><td width="200">Direct Connect</td></tr>
+    <tr><td><strong>443</strong></td><td width="200">HTTP over SSL</td></tr>
+    <tr><td><strong>445</strong></td><td width="200">Microsoft DS</td></tr>
+    <tr><td><strong>464</strong></td><td width="200">Kerberos</td></tr>
+
   </tbody>
 </table>
