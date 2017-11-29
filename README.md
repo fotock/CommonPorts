@@ -165,6 +165,7 @@
     <tr><td><strong>10000</strong></td><td>Webmin</td></tr>
     <tr><td><strong>10000</strong></td><td>BackupExec</td></tr>
     <tr><td><strong>10113-10116</strong></td><td>NetIQ</td></tr>
+    <tr><td><strong>11211</strong></td><td>Memcache/Memcached</td></tr>
     <tr><td><strong>11371</strong></td><td>OpenPGP</td></tr>
     <tr><td><strong>12035-12036</strong></td><td>Second Life</td></tr>
     <tr><td><strong>12345</strong></td><td>NetBus</td></tr>
